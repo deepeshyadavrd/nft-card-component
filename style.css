@@ -30,8 +30,12 @@ body {
   margin-bottom: 1rem;
 }
 
-.container .main-image img:hover {
-  cursor: pointer;
+.container .main-image {
+  position: relative;
+}
+
+.container .main-image div {
+  position: absolute;
 }
 
 .container h1 {
