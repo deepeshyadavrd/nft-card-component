@@ -62,13 +62,13 @@ body {
   transform: translate(-50%, -50%);
 }
 
-.container h1 {
+.container h2 {
   color: var(--white);
   margin: 1rem 0.5rem 0.5rem 0;
   font-size: 22px;
 }
 
-.container h1:hover {
+.container h2:hover {
   color: var(--cyan);
   cursor: pointer;
 }
