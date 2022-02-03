@@ -140,6 +140,6 @@ ul {
 @media (min-width: 500px) {
   .container {
     width: 350px;
-    margin: 0 auto 1rem;
+    margin: 3.5rem auto 1rem;
   }
 }
